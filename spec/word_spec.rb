@@ -22,4 +22,5 @@ describe Words do
       word.reverse.must_equal "peter pan peter"
     end
   end
+
 end
